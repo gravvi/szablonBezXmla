@@ -1,1 +1,1 @@
-web: java -jar target/szablonBezXmla.war
+web: java -jar target/szablonBezXmla.jar
