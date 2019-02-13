@@ -1,1 +1,1 @@
-web: java -jar target/glider3.jar
+web: java -jar target/szablonBezXmla.war
