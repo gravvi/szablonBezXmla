@@ -1,1 +1,1 @@
-web: java -jar target/szablonBezXmla.jar
+web java $JAVA_OPTS -jar webapp-runner.jar ${WEBAPP_RUNNER_OPTS} --port $PORT ./target/szablonBezXmla.war
